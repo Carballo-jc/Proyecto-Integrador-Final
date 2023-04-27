@@ -1,0 +1,7 @@
+.header-nav {
+    display: flex;
+    padding: 10px 40px;
+    background-color: grey;
+    height: 150px;
+    width: 100%;
+}
