@@ -4,3 +4,10 @@
   margin: 0;
   padding: 0;
 }
+.cardContainer{
+  width: 60%;
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+  margin-top: 40px;
+}

@@ -1,9 +1,19 @@
 
+import { useContext } from "react";
 import "./SuperHero.css";
+import { Context } from "../context";
 
 const SuperHero = () => {
+  const { state } = useContext(Context);
+  const hero = state.data?.hero;
+if(!hero) return;
   return (
-    <div className="superHero">SuperHero</div>
+    <div className="hero">
+     <section className="hero_section">
+     <h2>{hero.title}</h2>
+      <p>{hero.description}</p>
+     </section>
+    </div>
   )
 }
 

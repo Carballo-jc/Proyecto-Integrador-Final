@@ -1,6 +1,22 @@
-.superHero{
+.hero{
     background-image: url("ba1.jpg");
     height: 900px;
     background-size: cover;
     background-repeat: no-repeat;
+    color: white;
+}
+.hero_section{
+    color: white;
+    width: 525px;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    margin-left: 60%;
+    padding-top: 30%;
+}
+.hero_section h2{
+    margin: 0;
+}
+.hero_section p{
+    text-align: end;
 }

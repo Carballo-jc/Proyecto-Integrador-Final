@@ -5,7 +5,6 @@ import './NavBar.css'
 const NavBar = () => {
   const { state } = useContext(Context);
   const links = state.data?.links;
-  console.log(links)
   return (
     <div className="header-nav">
       <div className='header_logo'>
