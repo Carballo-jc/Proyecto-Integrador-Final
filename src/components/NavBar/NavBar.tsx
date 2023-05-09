@@ -8,7 +8,7 @@ const NavBar = () => {
   return (
     <div className="header-nav">
       <div className='header_logo'>
-        <img src="logo.png" alt="logo" className='logo' />
+        <img src="images/codoacodo.png" alt="logo" className='logo' />
         <label className='label_logo'>Conf Bs As</label>
       </div>
       <div>
