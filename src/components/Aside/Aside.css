@@ -1,0 +1,16 @@
+.aside{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.aside_image{
+    width: 50%;
+    height: 300px;
+}
+.aside_item{
+    width: 50%;
+    padding: 10px;
+    background-color: #323d42;
+    color: white;
+}

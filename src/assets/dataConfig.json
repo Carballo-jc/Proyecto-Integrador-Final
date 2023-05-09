@@ -35,23 +35,24 @@
       "id": 1,
       "title": "Steven Jobs",
       "description": "Su reacción fue innovar, o mejor dicho, implementar: a principios de 1984 su compañía lanzaba el Macintosh 128K, que fue el primer ordenador personal que se comercializó exitosamente que usaba una interfaz gráfica de usuario (GUI) y un ratón en vez de la línea de comandos. ​",
-      "image": "steven.jpg"
+      "image": "images/steve.jpg"
     },
     {
       "id": 2,
       "title": "Bill Gates",
       "description": "William Henry Gates III (Seattle, Washington; 28 de octubre de 1955), más conocido como Bill Gates, es un magnate empresarial, desarrollador de software, inversor, autor y filántropo estadounidense. Es cofundador de Microsoft, junto con su difunto amigo de la infancia Paul Allen",
-      "image": "./images/bill.jpg"
+      "image": "images/bill.jpg"
     },
     {
       "id": 3,
       "title": "Ada Lovelace",
       "description": "Ada Lovelace es considerada por muchos la primera programadora de la historia. Matemática y escritora inglesa, hija del famoso poeta Lord Byron, revolucionó la ciencia con sus conocimientos matemáticos ideando, con el apoyo de sus amigos inventores, el primer programa informático.",
-      "image": "./assets/images/ada.jpg"
+      "image": "images/ada.jpeg"
     }
   ],
   "section":{
     "title": "Bs As - Octubre",
-    "description": "Buenos Aires es la provincia y localidad mas grande del estado de Argentina, en los Estados Unidos. Honolulu es la más sureña de entre las principales ciudades estadounidenses. Aunque el nombre de Honolulu se refiere al área urbana e la costa usreste de la isla de Oahu, la ciudad y el condado de Honolulu han formado una ciudad-condado consolidada que cubre toda la ciudad(aproximadamente 600 km2 de superficie)."
+    "description": "Buenos Aires es la provincia y localidad mas grande del estado de Argentina, en los Estados Unidos. Honolulu es la más sureña de entre las principales ciudades estadounidenses. Aunque el nombre de Honolulu se refiere al área urbana e la costa usreste de la isla de Oahu, la ciudad y el condado de Honolulu han formado una ciudad-condado consolidada que cubre toda la ciudad(aproximadamente 600 km2 de superficie).",
+    "src": "images/honolulu.jpg"
   }
 }
