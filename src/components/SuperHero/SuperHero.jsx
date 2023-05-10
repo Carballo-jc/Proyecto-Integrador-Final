@@ -8,7 +8,9 @@ const SuperHero = () => {
   const hero = state.data?.hero;
 if(!hero) return;
   return (
-    <div className="hero">
+    <div className="hero"
+    style={{"backgroundImage": `url(${hero.image})`}}
+    >
      <section className="hero_section">
      <h2>{hero.title}</h2>
       <p>{hero.description}</p>
