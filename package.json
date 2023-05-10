@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://carballo-jc.github.io/Proyecto-Integrador-Final",
+  "homepage": "http://Carballo-jc.github.io/Proyecto-Integrador-Final",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
