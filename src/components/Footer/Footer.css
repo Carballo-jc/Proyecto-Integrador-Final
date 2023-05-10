@@ -1,0 +1,21 @@
+.footer{
+    display: flex;
+    width: 100%;
+    background-color: #27454c;
+    color: white;
+    height: 110px;
+}
+.footer_item{
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    list-style: none;
+    margin: auto;
+}
+.link_item_footer{
+    margin-right: 10px;
+    cursor: pointer;
+}
+.link_item_footer:hover{
+    color: aquamarine;
+}

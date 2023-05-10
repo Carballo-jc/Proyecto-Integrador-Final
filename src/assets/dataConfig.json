@@ -55,5 +55,28 @@
     "title": "Bs As - Octubre",
     "description": "Buenos Aires es la provincia y localidad mas grande del estado de Argentina, en los Estados Unidos. Honolulu es la más sureña de entre las principales ciudades estadounidenses. Aunque el nombre de Honolulu se refiere al área urbana e la costa usreste de la isla de Oahu, la ciudad y el condado de Honolulu han formado una ciudad-condado consolidada que cubre toda la ciudad(aproximadamente 600 km2 de superficie).",
     "src": "images/honolulu.jpg"
-  }
+  },
+  "footer":[
+    {
+      "label": "Preguntas frecuentes"
+    },
+    {
+      "label": "Contactenos"
+    },
+    {
+      "label": "Prensa"
+    },
+    {
+      "label": "Conferencias"
+    },
+    {
+      "label": "Terminos y condiciones"
+    },
+    {
+      "label": "Privacidad"
+    },
+    {
+      "label": "Estudiantes"
+    }
+  ]
 }
