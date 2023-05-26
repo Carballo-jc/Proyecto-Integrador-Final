@@ -2,12 +2,12 @@
   "links": [
     {
       "label": "La conferencia",
-      "url": "",
+      "url": "conferencia",
       "picture": ""
     },
     {
       "label": "Los oradores",
-      "url": "",
+      "url": "oradores",
       "picture": ""
     },
     {
@@ -17,12 +17,12 @@
     },
     {
       "label": "Conviertete en orador",
-      "url": "",
+      "url": "orador",
       "picture": ""
     },
     {
       "label": "Comprar ticketss",
-      "url": "",
+      "url": "comprar",
       "picture": ""
     }
   ],

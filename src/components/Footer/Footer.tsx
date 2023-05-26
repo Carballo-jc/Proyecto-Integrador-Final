@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <div className='footer'>
         <ul className='footer_item'>
-            {links.map((link) =>{
+            {links?.map((link) =>{
                 return(
                     <li key={link.label} className='link_item_footer'>{link.label}</li>
                 )
