@@ -7,7 +7,7 @@ export const Option = ({title, percentaje, clasess}) => {
         <h3>{title}</h3>
         <p>Tiene un descuento</p>
         <h4>{percentaje}%</h4>
-        <span>* presentar documentación</span>
+        <span className='option_item'>* presentar documentación</span>
     </div>
   )
 }

@@ -11,6 +11,14 @@
     margin: 10px 0;
     justify-content: space-between;
 }
+.form_register{
+    width: 70%;
+    margin: 2% auto;
+
+}
+.input_text_total{
+    display: none;
+}
 .input{
     width: 45%;
     font-size: 16px;
@@ -21,7 +29,6 @@
 }
 .btn_group{
     display: flex;
-    width: 60%;
     justify-content: space-between;
 }
 .btn_item{
