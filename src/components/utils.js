@@ -1,0 +1,1 @@
+export const urlBase = '/Proyecto-Integrador-Final/'
